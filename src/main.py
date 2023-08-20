@@ -17,7 +17,7 @@ async def read_root(work_item_id: int):
 if __name__ == "__main__":
 
     async def main():
-        result = await azdo_http_client.get_workitem_detail(1)
+        result = await azdo_http_client.get_workitem_detail(1066390)
         print("Async task result:", result.text)
 
     asyncio.run(main())

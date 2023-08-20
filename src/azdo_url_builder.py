@@ -4,8 +4,8 @@ from url_builder_factory import CreateUrlBuilder
 class AzdoUrlBuilder:
     def __init__(
         self,
-        organization: str = "",
-        project_name: str = "",
+        organization: str = "Derivco",
+        project_name: str = "Software",
         default_api_version: str = "7.0",
     ):
         self._organization = organization
