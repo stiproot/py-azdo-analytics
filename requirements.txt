@@ -1,0 +1,4 @@
+environs==9.5.0
+fastapi==0.101.1
+pyxi_couchbase_client==0.0.2
+pyxi_kafka_client==0.0.1

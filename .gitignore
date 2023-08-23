@@ -1,2 +1,5 @@
 src/.env
 src/__pycache__/
+src/.env
+dist/
+pyxi_azdo_analytics.egg-info/
